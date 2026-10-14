@@ -1,0 +1,8 @@
+{
+  "name": "SemVault - Engineering Semester Study Portal",
+  "description": "Comprehensive semester study hub featuring subject-wise notes, previous year questions (PYQ), model answers, syllabus completion tracking, and exam deadline dashboards for Analog Circuits, Maths, Control Systems, DBMS, and Java.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
